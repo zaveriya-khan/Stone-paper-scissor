@@ -1,8 +1,8 @@
-# ✊✋✌️ Stone Paper Scissors Game
+#  Stone Paper Scissors Game
 
 A fun and interactive browser-based **Stone Paper Scissors** game built with HTML, CSS, and JavaScript. Challenge the computer in this classic game of luck and logic!
 
-👉 **Live Demo**: [stone-paper-scissor-ruby-nine.vercel.app](https://stone-paper-scissor-ruby-nine.vercel.app/)
+👉 **Live Demo**: https://stone-paper-scissor-by-zaveriya.vercel.app/
 
 
 
