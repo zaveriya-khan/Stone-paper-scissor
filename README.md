@@ -28,5 +28,5 @@ A fun and interactive browser-based **Stone Paper Scissors** game built with HTM
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/stone-paper-scissor.git
+   git clone https://github.com/zaveriya-khan/stone-paper-scissor.git
    cd stone-paper-scissor
